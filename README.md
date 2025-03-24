@@ -1,0 +1,38 @@
+# 👋 Hello, I'm Pavel - Backend Developer from Russia 
+
+**Building performant backends with modern frontend integration**  
+*Python Core | Go Microservices | Vue Ecosystem*
+
+### 🛠️ Tech Stack
+**Backend Expertise**  
+`Python 3.11+` · `Go 1.20+` · `REST/GraphQL` · `gRPC`
+
+**Frameworks & Tools**  
+▸ Python: `FastAPI` · `SQLAlchemy`  
+▸ Go: `Gin` · `Echo` · `GORM` · `Go-Kit`  
+▸ Databases: `PostgreSQL` · `MySQL` · `MongoDB`  
+▸ DevOps: `Docker`
+
+**Frontend Integration**  
+`Vue 3` · `TypeScript`  · `Vite`
+
+### 🚀 Key Projects
+
+- **[AstraHACK](https://github.com/opazdunTeam/AstraHACK)**: Messenger project for the AstraLinux hackathon (together with [rosiaAI](https://github.com/rosiaAI)).
+- **[ZKFront](https://github.com/darkfated/ZKFront) [ZKBack](https://github.com/darkfated/ZKBack)**: Joint coursework, website for viewing cryptocurrencies ([Presentation link](https://docs.google.com/presentation/d/13OZH23zO1Tk84Aw_fOlSthKxVQv7IDLH/edit?usp=sharing&ouid=107036428537904750253&rtpof=true&sd=true). Together with [darkfated](https://github.com/darkfated) and [rosiaAI](https://github.com/rosiaAI)).
+- **[LukaDev](https://github.com/LukaUniProject/LukaDev)**: AI assistant for choosing personal style (together with [rosiaAI](https://github.com/rosiaAI) and [darkfated](https://github.com/darkfated)).
+
+
+### 🔭 Engineering Focus
+- Go performance critical systems
+- Python async/await patterns
+- High-concurrency architectures
+- End-to-end encryption systems
+- Observability (Tracing/Metrics/Logging)
+
+### 🛠️ Development Principles
+- Test coverage >80% (pytest/go test)
+- API-first design (OpenAPI/Swagger)
+- Zero-downtime deployments
+- Semantic versioning
+- DDD/CQRS patterns
