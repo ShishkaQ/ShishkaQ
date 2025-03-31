@@ -5,7 +5,7 @@
 
 ### 🛠️ Tech Stack
 **Backend Expertise**  
-`Python 3.11+` · `Go 1.20+` · `REST/GraphQL` · `gRPC`
+`Python 3.11+` · `Go 1.20+` 
 
 **Frameworks & Tools**  
 ▸ Python: `FastAPI` · `SQLAlchemy`  
