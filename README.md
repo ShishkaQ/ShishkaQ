@@ -9,7 +9,7 @@
 
 **Frameworks & Tools**  
 ▸ Python: `FastAPI` · `SQLAlchemy`  
-▸ Go: `Gin` · `Echo` · `GORM` · `Go-Kit`  
+▸ Go: `Gin` · `Echo`
 ▸ Databases: `PostgreSQL` · `MySQL` · `MongoDB`  
 ▸ DevOps: `Docker`
 
