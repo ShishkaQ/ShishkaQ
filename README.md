@@ -11,7 +11,7 @@
 ▸ Go: `Gin` · `Echo`  
 ▸ Databases: `PostgreSQL` · `MySQL` · `MongoDB`  
 ▸ DevOps: `Docker`
-- Frontend: `Vue 3`
+▸ Frontend: `Vue 3`
 
 
 ### 🚀 Key Projects
