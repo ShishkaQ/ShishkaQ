@@ -23,3 +23,6 @@
 - **[LukaDev](https://github.com/LukaUniProject/LukaDev)**: AI assistant for choosing personal style (together with [rosiaAI](https://github.com/rosiaAI) and [darkfated](https://github.com/darkfated)).
 - **[SoundClowns](https://github.com/opazdunTeam/SoundClowns/tree/dev)**: Platform for listening to music together by voting in pivot rooms (together with [rosiaAI](https://github.com/rosiaAI))
 
+
+## 📅 Stats
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ShishkaQ&layout=compact&theme=dark&hide_border=true)
