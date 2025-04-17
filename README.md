@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Pavel - Fullstack Developer
+# 👋 Hi, I'm Pavel - Fullstack Developer
 
 **Building performant backends with modern frontend integration**  
 
