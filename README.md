@@ -7,10 +7,10 @@
 `Python 3.11+` · `Go 1.20+` · `JavaScript` · `HTML` · `CSS`
 
 **Frameworks & Tools**  
-▸ Python: `FastAPI` · `Django` · `SQLAlchemy`
+▸ Python: `FastAPI` · `Django` · `SQLAlchemy`  
 ▸ Go: `Gin` · `Echo`  
 ▸ Databases: `PostgreSQL` · `MySQL` · `MongoDB`  
-▸ DevOps: `Docker`
+▸ DevOps: `Docker`  
 ▸ Frontend: `Vue 3`
 
 
