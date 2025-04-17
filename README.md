@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Pavel - Fullstack Developer
 
 **Building performant backends with modern frontend integration**  
-*Python Core | Go Microservices | Vue Ecosystem*
 
 ### 🛠️ Tech Stack
 **Backend Expertise**  
