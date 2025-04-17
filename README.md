@@ -14,7 +14,7 @@
 ▸ DevOps: `Docker`
 
 **Frontend Integration**  
-`Vue 3` · `TypeScript`  · `Vite`
+`Vue 3` · `TypeScript`  · `JavaScript`
 
 ### 🚀 Key Projects
 
