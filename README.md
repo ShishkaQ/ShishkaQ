@@ -8,7 +8,7 @@
 `Python 3.11+` · `Go 1.20+` 
 
 **Frameworks & Tools**  
-▸ Python: `Django` · `FastAPI` · `SQLAlchemy`  
+▸ Python: `Django` · `FastAPI` · `SQLAlchemy` · `Redis` · `Alembic` · `Pydantic`
 ▸ Go: `Gin` · `Echo`  
 ▸ Databases: `PostgreSQL` · `MySQL` · `MongoDB`  
 ▸ DevOps: `Docker`
@@ -24,17 +24,3 @@
 - **[LukaDev](https://github.com/LukaUniProject/LukaDev)**: AI assistant for choosing personal style (together with [rosiaAI](https://github.com/rosiaAI) and [darkfated](https://github.com/darkfated)).
 - **[SoundClowns](https://github.com/opazdunTeam/SoundClowns/tree/dev)**: Platform for listening to music together by voting in pivot rooms (together with [rosiaAI](https://github.com/rosiaAI))
 
-
-### 🔭 Engineering Focus
-- Go performance critical systems
-- Python async/await patterns
-- High-concurrency architectures
-- End-to-end encryption systems
-- Observability (Tracing/Metrics/Logging)
-
-### 🛠️ Development Principles
-- Test coverage >80% (pytest/go test)
-- API-first design (OpenAPI/Swagger)
-- Zero-downtime deployments
-- Semantic versioning
-- DDD/CQRS patterns
