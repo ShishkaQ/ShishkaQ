@@ -3,17 +3,16 @@
 **Building performant backends with modern frontend integration**  
 
 ### 🛠️ Tech Stack
-**Backend Expertise**  
-`Python 3.11+` · `Go 1.20+` 
+**Languages**  
+`Python 3.11+` · `Go 1.20+` · `JavaScript` · `HTML` · `CSS`
 
 **Frameworks & Tools**  
-▸ Python: `Django` · `FastAPI` · `SQLAlchemy` · `Redis` · `Alembic` · `Pydantic`  
+▸ Python: `FastAPI` · `Django` · `SQLAlchemy`
 ▸ Go: `Gin` · `Echo`  
 ▸ Databases: `PostgreSQL` · `MySQL` · `MongoDB`  
 ▸ DevOps: `Docker`
+- Frontend: `Vue 3`
 
-**Frontend Integration**  
-`Vue 3` · `TypeScript`  · `JavaScript` · `HTML` · `CSS`
 
 ### 🚀 Key Projects
 
