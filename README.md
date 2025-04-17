@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Pavel - Backend Developer from Russia 
+# 👋 Hello, I'm Pavel - Fullstack Developer
 
 **Building performant backends with modern frontend integration**  
 *Python Core | Go Microservices | Vue Ecosystem*
