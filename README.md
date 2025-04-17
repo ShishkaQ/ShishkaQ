@@ -8,7 +8,7 @@
 `Python 3.11+` · `Go 1.20+` 
 
 **Frameworks & Tools**  
-▸ Python: `Django` · `FastAPI` · `SQLAlchemy` · `Redis` · `Alembic` · `Pydantic`
+▸ Python: `Django` · `FastAPI` · `SQLAlchemy` · `Redis` · `Alembic` · `Pydantic`  
 ▸ Go: `Gin` · `Echo`  
 ▸ Databases: `PostgreSQL` · `MySQL` · `MongoDB`  
 ▸ DevOps: `Docker`
