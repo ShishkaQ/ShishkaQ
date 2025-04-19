@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavel - Fullstack Developer
 
-# 🤙 About me: I have been working for the last six months in a startup, developing the backend part of the site on FastAPI and off-chain infrastructure
+## 🤙 About me: I have been working for the last six months in a startup, developing the backend part of the site on FastAPI and off-chain infrastructure
 
 ### 🛠️ Tech Stack
 **Languages**  
