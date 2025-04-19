@@ -10,7 +10,7 @@
 ▸ Python: `FastAPI` · `Django` · `SQLAlchemy`  
 ▸ Go: `Gin` · `Echo`  
 ▸ Databases: `PostgreSQL` · `MySQL` · `MongoDB`  
-▸ DevOps: `Docker`  
+▸ DevOps: `Docker` · `Nginx`  
 ▸ Frontend: `Vue 3`
 
 
