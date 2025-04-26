@@ -10,7 +10,7 @@ I have been working in a crypto startup for the last six months, developing the 
 
 **Frameworks & Tools**  
 ▸ Python: `FastAPI` · `Django` · `SQLAlchemy`  
-▸ Go: `Gin` · `Echo`  
+▸ Go: `Gin` · `Echo` · `Fiber`  
 ▸ Databases: `PostgreSQL` · `MySQL` · `MongoDB`  
 ▸ DevOps: `Docker` · `Nginx`  
 ▸ Frontend: `Vue 3`
