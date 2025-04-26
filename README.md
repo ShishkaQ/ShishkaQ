@@ -6,7 +6,7 @@ I have been working in a crypto startup for the last six months, developing the 
 
 ### 🛠️ Tech Stack
 **Languages**  
-`Python 3.11+` · `Go 1.20+` · `JavaScript` · `HTML` · `CSS`
+`Python 3` · `Go` · `JavaScript` · `HTML` · `CSS`
 
 **Frameworks & Tools**  
 ▸ Python: `FastAPI` · `Django` · `SQLAlchemy`  
