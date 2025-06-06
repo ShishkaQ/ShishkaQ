@@ -9,7 +9,7 @@ I have been working in a crypto startup for the last six months, developing the 
 `Go` · `Python 3` · `JavaScript` · `HTML` · `CSS`
 
 **Frameworks & Tools**  
-▸ Go: `Gin` · `Echo` · `Fiber`  · `GOEM`  
+▸ Go: `Gin` · `Echo` · `Fiber`  · `GORM`  
 ▸ Python: `FastAPI` · `Django` · `SQLAlchemy`  
 ▸ Databases: `PostgreSQL` · `MySQL` · `MongoDB`  
 ▸ DevOps: `Docker` · `Nginx`  
