@@ -6,7 +6,7 @@ I have been working in a crypto startup for the last six months, developing the 
 
 ### 🛠️ Tech Stack
 **Languages**  
-`Go` · `Python 3` · `JavaScript` · `HTML` · `CSS`
+`Go` · `Python` · `JavaScript` · `HTML` · `CSS`
 
 **Frameworks & Tools**  
 ▸ Go: `Gin` · `Echo` · `Fiber`  · `GORM`  
