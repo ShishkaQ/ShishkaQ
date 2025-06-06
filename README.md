@@ -6,11 +6,11 @@ I have been working in a crypto startup for the last six months, developing the 
 
 ### 🛠️ Tech Stack
 **Languages**  
-`Python 3` · `Go` · `JavaScript` · `HTML` · `CSS`
+`Go` · `Python 3` · `JavaScript` · `HTML` · `CSS`
 
 **Frameworks & Tools**  
+▸ Go: `Gin` · `Echo` · `Fiber`  · `GOEM`  
 ▸ Python: `FastAPI` · `Django` · `SQLAlchemy`  
-▸ Go: `Gin` · `Echo` · `Fiber`  
 ▸ Databases: `PostgreSQL` · `MySQL` · `MongoDB`  
 ▸ DevOps: `Docker` · `Nginx`  
 ▸ Frontend: `Vue 3`
